@@ -1,7 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Object_humpty","path":"objects/Object_humpty/Object_humpty.yy",},"order":0,},
-    {"id":{"name":"Humpty_dumpty_walk","path":"sprites/Humpty_dumpty_walk/Humpty_dumpty_walk.yy",},"order":0,},
+    {"id":{"name":"Humpty_dumpty_walk_spr","path":"sprites/Humpty_dumpty_walk_spr/Humpty_dumpty_walk_spr.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

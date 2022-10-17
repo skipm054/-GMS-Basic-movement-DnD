@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Humpty_dumpty_walk",
-    "path": "sprites/Humpty_dumpty_walk/Humpty_dumpty_walk.yy",
+    "name": "Humpty_dumpty_walk_spr",
+    "path": "sprites/Humpty_dumpty_walk_spr/Humpty_dumpty_walk_spr.yy",
   },
   "solid": false,
   "visible": true,
