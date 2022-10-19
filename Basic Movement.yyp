@@ -3,8 +3,8 @@
     {"id":{"name":"Object_humpty","path":"objects/Object_humpty/Object_humpty.yy",},"order":0,},
     {"id":{"name":"Humpty_dumpty_walk_spr","path":"sprites/Humpty_dumpty_walk_spr/Humpty_dumpty_walk_spr.yy",},"order":0,},
     {"id":{"name":"bunny_wall_obj","path":"objects/bunny_wall_obj/bunny_wall_obj.yy",},"order":1,},
-    {"id":{"name":"Bunny_wall_spt","path":"sprites/Bunny_wall_spt/Bunny_wall_spt.yy",},"order":1,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"Bunny_wall_sprt","path":"sprites/Bunny_wall_sprt/Bunny_wall_sprt.yy",},"order":1,},
+    {"id":{"name":"egg_rm","path":"rooms/egg_rm/egg_rm.yy",},"order":0,},
   ],
   "Options": [
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
@@ -21,7 +21,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"egg_rm","path":"rooms/egg_rm/egg_rm.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

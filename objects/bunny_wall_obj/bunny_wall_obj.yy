@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Bunny_wall_spt",
-    "path": "sprites/Bunny_wall_spt/Bunny_wall_spt.yy",
+    "name": "Bunny_wall_sprt",
+    "path": "sprites/Bunny_wall_sprt/Bunny_wall_sprt.yy",
   },
   "solid": true,
   "visible": true,
